@@ -10,7 +10,7 @@ discord-active-developer-activeator has the utility to give you the Active Devel
 3. Start the bot with the "start.bat" file.
 4. Do the /enable command.
 
-You have to wait for see your badge available.
+You have to wait for see your badge available on the Discord Developer Portal.
 
 
 © 2023, Active Developer Activator - All rights reserved
