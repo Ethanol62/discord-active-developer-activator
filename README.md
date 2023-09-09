@@ -12,4 +12,6 @@ discord-active-developer-activeator has the utility to give you the Active Devel
 
 You have to wait for see your badge available on the Discord Developer Portal (https://discord.com/developers/applications).
 
+<a href="https://www.buymeacoffee.com/Ethanol62" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
 © 2023, Active Developer Activator - All rights reserved
